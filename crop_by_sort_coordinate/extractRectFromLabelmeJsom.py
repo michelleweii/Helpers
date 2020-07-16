@@ -5,7 +5,7 @@ import random as rd
 import json
 import cv2
 #--------------
-#author: haiweidai(dhw)
+#author: michelleweii
 #time: 2019/4/10
 #extract rect from labelme data
 #--------------
